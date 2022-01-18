@@ -6,6 +6,7 @@ html{
 body{
 background-color: #000000;
 color: #ffff;
+font-family: 'Open Sans', sans-serif !important;
 }
 
 .navbar{
