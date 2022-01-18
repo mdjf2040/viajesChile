@@ -1,0 +1,43 @@
+html{
+
+    scroll-behavior: auto !important;
+}
+
+body{
+background-color: #000000;
+color: #ffff;
+}
+
+.navbar{
+position: fixed;
+width: 100vw;
+z-index: 999;
+}
+
+.icono{
+text-align: center;
+
+}
+.tituloCard{
+
+    object-fit: cover;
+}
+
+.fondo-form{
+
+    background: #fff ;
+    height: 350px;
+    color: black;
+    
+
+
+}
+
+.texto-2{
+
+padding-top: 100px;
+
+}
+
+
+
