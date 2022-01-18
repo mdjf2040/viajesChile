@@ -46,4 +46,13 @@ width: 1200px;
 
 }
 
+@media only screen and (max-width: 576px) {
+    .centro {
+       text-align: center;
+       margin-left: 25px;
+        
+    }
+    
+}
+
 
